@@ -1,2 +1,5 @@
 Selenium test1
 welcome
+pull command
+local to remote -push
+remote to local - pull
